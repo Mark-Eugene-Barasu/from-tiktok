@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
+input[name=firstName] {
+  accent-color: chartreuse;
+}
+
+input[name=lastName] {
+  accent-color: purple;
+}/*# sourceMappingURL=style.css.map */
